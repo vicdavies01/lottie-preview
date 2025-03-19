@@ -1,1 +1,133 @@
-{"assets":[{"h":32,"id":"0","p":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAU6SURBVHgBtZdLT2RVEMdP39s0MHQDozx6eDQQmGiCMhMZMxoTQ1xoMproQpJJ3LjRxLhzaYxLM99AXfv4AhqdhYnMgsQYwECCynOgpUFopoemeTXd915/dfpcvDOg0wxNJSfn3POoqlP1rzp1Q6pM6u7urnEcp8/zvASfl1zXvWhZVh1jKxQKHTK/Tfububv00ysrK/vl8A09akNfX199Pp+/yvAZ2gWYWzQbQbo3CoQDY+ltvsdot1Op1L3HUgDB1YeHh9dgeLVQKGjGyBTGlgiQbyNU975g01v+HJb6mfEPq6ureyfJsU+abGpqinH4TYYJDoeCJMzNTXUv5As1cyHfGnKW5V7mr0ej0clcLrf3SAU6OjqesG37VYYxDpfMJJyRw220RDO1TS9NmFaxFhELCU/Zw3fQTVH2P4cSMyiRVf/lgubm5mh1dfVrHIoGzK1vCAClX0e5P1hbWFpaOgieTSQSF9kvIL3O51MBt/iYEVkZ+N+an59PH1NgcHCwamNj4wabY8Z0R4fpd2l3QHZKlUFY8TLC3+Vsi3GLYMEY0so0NjZ+PDU1tfuACyKRyBUOxI3JFWNl3D5XU1PzEze+r8qk7e3tDOb+hbNilS4fLwaUUcAdyWazk0cWaGtru8DiDfk2PvYBtJxMJkfVGQhrvE/3snoQpBau+HBhYWFDo6yqquppFsVGriEH4Tkw8as6I8Hra7pMAA/6gljhDVm3xfc7OzvXShGmzS9x5xH7o3Nzczl1RgL1BXyehOcrqhTCoogIS5BdbwtS2/lokYgB6Z70tDQZ7E9VIcLfaTDxLLLi4gZpWEISXUpc3mhM79DrViwWl1WFifAdkYjymyjBhQdEE0kSDntcsOAY/2+qChPviURFWP2briU3XBZzVIsCfBRFOAodlPuSnYbW19d34Z32lTD5JR42ud7F7J5sxCw76vwoL1FQej50rqkP84FMJ1RK2yVl1DmRyQNhk+T0XBizSzFhh8NhPRnyV86BkNNhFNCX5NI7otG+3NoxhELh4eFhW1WYurq6LtE1KFPAGCCuW4RHzoDQb8XR0dGLqsIExgZVKQkdRQFtQQCQNTgIKtGoKkwIfYsuHKycaL9ZZLwtzF7gNZRI0IqwUDMwMFCnKkSdnZ3P00mdoJ935Om+trb2jmBABG4KDnwLyHhra6tVlXL3mUiKWoTdOqFm/G5mZianBdTX12/KzXmAtBJiCaLCjsfjT6oz0sHBwSeqVFseFbHIkPD/QtY12tPptIML7Lq6ughKSKZwJVRQIhKLxSwKjDzbvNMIlpvD7zP4vB2oLXXH3Fdk2x+PFBDagxoaGmIylqTES6WVEJO1tLRU9/T0FNbW1spKUtSHL2HFbzn/oi80sLyK7z/KZDL5hxfU0NBQeHZ2to1HycYSGg+EqYsZxSUOSuVhnh8fH9ePV/Asb3sjQl9neJP2goS2uYBcxB8n6d8B+Cv+uWNZr7+/P4LJmwSpInR/f19wIe4QNzlo7/C+O62trcWxsbEiCB/nmPxHdMC8aASLgn5zTUvC5z1KvN+D8o6hfHp6+rC3t3cDKxT96sgUKbphEQ//uVjBx8QV9nQFLuS34A9MigvdfFi40IkplwpYwnCvvb3d4x0X1EqtIFbwmHe5vQcmFJjwJiYmPjXHXL+aVgHA8v0lVvtgeXk5fZKsch4eC4G1YMIWPFDNOpTpLj8X2tS4IGhuv91HmW+I7M/5J/zr/5if5uWTvTYYsVDAIzy9kZERl7K7yPw9BN6lTWLqEbDy/eLiYrYcpv8A5yYMBVc7hYwAAAAASUVORK5CYII=","u":"","w":32,"e":1},{"id":"6","layers":[{"ind":5,"ty":2,"parent":4,"ks":{},"ip":0,"op":241,"st":0,"refId":"0"},{"ind":4,"ty":3,"ks":{"s":{"a":0,"k":[50,50]}},"ip":0,"op":241,"st":0}]}],"fr":60,"h":20,"ip":0,"layers":[{"ind":8,"ty":0,"parent":3,"ks":{},"w":16,"h":16,"ip":0,"op":241,"st":0,"refId":"6"},{"ind":3,"ty":3,"parent":2,"ks":{"p":{"a":0,"k":[2,2]}},"ip":0,"op":241,"st":0},{"ind":2,"ty":3,"parent":1,"ks":{},"ip":0,"op":241,"st":0},{"ind":1,"ty":3,"ks":{},"ip":0,"op":241,"st":0}],"meta":{"g":"https://jitter.video"},"op":240,"v":"5.7.4","w":20}
+{
+    "v": "5.7.4",
+    "fr": 60,
+    "ip": 0,
+    "op": 120,
+    "w": 150,
+    "h": 150,
+    "assets": [],
+    "layers": [
+        {
+            "ddd": 0,
+            "ind": 1,
+            "ty": 4,
+            "nm": "Spinning Circle",
+            "sr": 1,
+            "ks": {
+                "o": {
+                    "a": 0,
+                    "k": 100
+                },
+                "r": {
+                    "a": 1,
+                    "k": [
+                        {
+                            "t": 0,
+                            "s": [
+                                0
+                            ],
+                            "i": {
+                                "x": [
+                                    0.5
+                                ],
+                                "y": [
+                                    1
+                                ]
+                            },
+                            "o": {
+                                "x": [
+                                    0.5
+                                ],
+                                "y": [
+                                    0
+                                ]
+                            }
+                        },
+                        {
+                            "t": 120,
+                            "s": [
+                                360
+                            ],
+                            "h": 1
+                        }
+                    ]
+                },
+                "p": {
+                    "a": 0,
+                    "k": [
+                        75,
+                        75,
+                        0
+                    ]
+                },
+                "a": {
+                    "a": 0,
+                    "k": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "s": {
+                    "a": 0,
+                    "k": [
+                        100,
+                        100,
+                        100
+                    ]
+                }
+            },
+            "shapes": [
+                {
+                    "ty": "gr",
+                    "it": [
+                        {
+                            "ty": "el",
+                            "p": {
+                                "a": 0,
+                                "k": [
+                                    0,
+                                    0
+                                ]
+                            },
+                            "s": {
+                                "a": 0,
+                                "k": [
+                                    100,
+                                    100
+                                ]
+                            },
+                            "nm": "Circle"
+                        },
+                        {
+                            "ty": "fl",
+                            "c": {
+                                "a": 0,
+                                "k": [
+                                    0,
+                                    0,
+                                    1,
+                                    1
+                                ]
+                            },
+                            "o": {
+                                "a": 0,
+                                "k": 100
+                            },
+                            "r": 1,
+                            "nm": "Fill"
+                        }
+                    ],
+                    "nm": "Circle Group",
+                    "np": 2,
+                    "cix": 2,
+                    "bm": 0
+                }
+            ],
+            "ip": 0,
+            "op": 120,
+            "st": 0,
+            "bm": 0
+        }
+    ]
+}
