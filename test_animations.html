@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lottie Animation Preview</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.9.6/lottie.min.js"></script>
+    <style>
+        body { text-align: center; font-family: Arial, sans-serif; background-color: #f0f0f0; }
+        .animation-container { display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; }
+        .lottie-box { width: 200px; height: 200px; border: 1px solid #ddd; padding: 10px; background-color: #ffffff; }
+    </style>
+</head>
+<body>
+    <h2>Lottie Animation Preview</h2>
+    <div class="animation-container">
+        <div class="lottie-box" id="efficiency"></div>
+        <div class="lottie-box" id="candidates"></div>
+        <div class="lottie-box" id="chat"></div>
+        <div class="lottie-box" id="matches"></div>
+        <div class="lottie-box" id="breathing"></div>
+        <div class="lottie-box" id="stretch"></div>
+        <div class="lottie-box" id="email"></div>
+        <div class="lottie-box" id="art"></div>
+        <div class="lottie-box" id="comfort"></div>
+        <div class="lottie-box" id="salary"></div>
+    </div>
+    <script>
+        const animations = [
+            { id: "efficiency", path: "Hackajob_Efficiency.json" },
+            { id: "candidates", path: "Hidden_Candidates.json" },
+            { id: "chat", path: "Muted_Chat.json" },
+            { id: "matches", path: "Progress_Matches.json" },
+            { id: "breathing", path: "Mindful_Breathing.json" },
+            { id: "stretch", path: "Stretch_Reminder.json" },
+            { id: "email", path: "Email_Check.json" },
+            { id: "art", path: "Small_Steps_Art.json" },
+            { id: "comfort", path: "Sitting_Comfort.json" },
+            { id: "salary", path: "Salary_Gap.json" }
+        ];
+
+        animations.forEach(anim => {
+            lottie.loadAnimation({
+                container: document.getElementById(anim.id),
+                renderer: "svg",
+                loop: true,
+                autoplay: true,
+                path: anim.path
+            });
+        });
+    </script>
+</body>
+</html>
